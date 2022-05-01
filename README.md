@@ -5,6 +5,7 @@ This program generates an elliptic curve public key for you, and accepts you cha
 
 ## Installation
 The crypto libraries on which this program depends, only work on Windows.
+You need dotnet 6.0 to build the program.
 
 To build, run:
 ```
